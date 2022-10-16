@@ -10,7 +10,7 @@ repository = "https://github.com/IDM-Team/idm_lp"
 documentation = "https://github.com/IDM-Team/idm_lp"
 
 [tool.poetry.dependencies]
-python = "^3.8"
+python = "^3.10.6"
 vkbottle = "^2.7.12"
 pydantic = ">=1.7.3,<2.0"
 python-rucaptcha = ">=3.0,<4.0"
